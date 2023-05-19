@@ -1,4 +1,3 @@
-# python_Triathlon_Time_Tracker
 # Triathlon Time Tracker
 
 This program calculates the total time taken to complete a triathlon based on the individual timings for swimming, cycling, and running. It also determines the type of award based on the qualifying time.
